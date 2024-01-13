@@ -1,0 +1,19 @@
+.card {
+    flex: 0 1 21%;
+    margin: 10px;
+    padding: 10px;
+    background-color: palevioletred;
+    border-radius: 6px;
+    box-shadow: 0px 0px 5px 10px gray;
+}
+
+.card img {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.card h3 {
+    font-size: 22px;
+    font-weight: 600;
+}
